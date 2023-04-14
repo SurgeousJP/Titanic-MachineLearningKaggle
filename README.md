@@ -1,4 +1,4 @@
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://cdn.britannica.com/79/4679-050-BC127236/Titanic.jpg))
+![image](https://user-images.githubusercontent.com/100687339/232015631-3275145e-67e3-4210-8639-5b17108e72ba.png)
 
 # Kaggle Machine Learning Competition: Titanic - Machine Learning from Disaster
 This is my own solution to the Kaggle ML competition which has about 93% of accuracy.
